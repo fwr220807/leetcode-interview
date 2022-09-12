@@ -18,7 +18,7 @@
 |                             题目                             | 难度 | 其他 |
 | :----------------------------------------------------------: | :--: | :--: |
 | [704. 二分查找](https://github.com/fwr220807/leetcode-interview/blob/main/src/0704.二分查找.md) | 简单 | 数组 |
-| [374. 猜数字大小](https://github.com/fwr220807/leetcode-interview/blob/main/src/0374. 猜数字大小.md) | 简单 |      |
-| [35. 搜索插入位置](https://github.com/fwr220807/leetcode-interview/blob/main/src/0035. 搜索插入位置.md) | 简单 | 数组 |
+| [374. 猜数字大小](https://github.com/fwr220807/leetcode-interview/blob/main/src/0374.猜数字大小.md) | 简单 |      |
+| [35. 搜索插入位置](https://github.com/fwr220807/leetcode-interview/blob/main/src/0035.搜索插入位置.md) | 简单 | 数组 |
 |                                                              |      |      |
 
