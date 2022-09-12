@@ -10,13 +10,13 @@
 
 |                             题目                             | 难度 |          其他关键词          |
 | :----------------------------------------------------------: | :--: | :--------------------------: |
-| [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/) | 中等 | 中心扩散法、双指针、动态规划 |
+| [5. 最长回文子串](https://github.com/fwr220807/leetcode-interview/blob/main/src/0005.最长回文子串.md) | 中等 | 中心扩散法、双指针、动态规划 |
 |                                                              |      |                              |
 
 ## 2. 二分查找
 
 |                             题目                             | 难度 | 其他关键词 |
 | :----------------------------------------------------------: | :--: | :--------: |
-| [704. 二分查找](https://leetcode.cn/problems/binary-search/) | 简单 |    数组    |
+| [704. 二分查找](https://github.com/fwr220807/leetcode-interview/blob/main/src/0704.二分查找.md) | 简单 |    数组    |
 |                                                              |      |            |
 
