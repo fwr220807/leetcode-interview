@@ -21,6 +21,7 @@
 | [374. 猜数字大小](https://github.com/fwr220807/leetcode-interview/blob/main/src/0374.猜数字大小.md) | 简单 |      |
 | [35. 搜索插入位置](https://github.com/fwr220807/leetcode-interview/blob/main/src/0035.搜索插入位置.md) | 简单 | 数组 |
 | [852. 山脉数组的峰顶索引](https://github.com/fwr220807/leetcode-interview/blob/main/src/0852.山脉数组的峰顶索引.md) | 中等 | 数组 |
+|                                                              |      |      |
 
 ## 3.贪心算法
 
@@ -28,3 +29,11 @@
 | :----------------------------------------------------------: | :--: | :--: |
 | [670. 最大交换](https://github.com/fwr220807/leetcode-interview/blob/main/src/0670.最大交换.md) | 中等 | 数组 |
 |                                                              |      |      |
+
+## 4.排序
+
+|                             题目                             | 难度 |      其他      |
+| :----------------------------------------------------------: | :--: | :------------: |
+| [1608. 特殊数组的特征值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1608.特殊数组的特征值md) | 简单 | 数组、二分查找 |
+| [1619. 删除某些元素后的数组均值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1619.删除某些元素后的数组均值.md) | 简单 |      数组      |
+|                                                              |      |                |
