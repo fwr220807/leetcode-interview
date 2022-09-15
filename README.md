@@ -37,3 +37,12 @@
 | [1608. 特殊数组的特征值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1608.特殊数组的特征值.md) | 简单 | 数组、二分查找 |
 | [1619. 删除某些元素后的数组均值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1619.删除某些元素后的数组均值.md) | 简单 |      数组      |
 |                                                              |      |                |
+
+## 5.其他
+
+|                             题目                             | 难度 |     其他     |
+| :----------------------------------------------------------: | :--: | :----------: |
+| [672. 灯泡开关Ⅱ](https://github.com/fwr220807/leetcode-interview/blob/main/src/672.灯泡开关Ⅱ.md) | 中等 | 规律、位运算 |
+|                                                              |      |              |
+
+## 
