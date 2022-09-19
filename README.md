@@ -37,6 +37,7 @@
 | :----------------------------------------------------------: | :--: | :------------: |
 | [1608. 特殊数组的特征值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1608.特殊数组的特征值.md) | 简单 | 数组、二分查找 |
 | [1619. 删除某些元素后的数组均值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1619.删除某些元素后的数组均值.md) | 简单 |      数组      |
+| [1636. 按照频率将数组升序排序](https://github.com/fwr220807/leetcode-interview/blob/main/src/1636.按照频率将数组升序排序.md) | 简单 |      数组      |
 |                                                              |      |                |
 
 ## 5.图
