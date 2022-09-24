@@ -66,4 +66,4 @@
 |                             题目                             | 难度 |     其他     |
 | :----------------------------------------------------------: | :--: | :----------: |
 | [672. 灯泡开关Ⅱ](https://github.com/fwr220807/leetcode-interview/blob/main/src/0672.灯泡开关Ⅱ.md) | 中等 | 规律、位运算 |
-|                                                              |      |              |
+| [1652. 拆炸弹](https://github.com/fwr220807/leetcode-interview/blob/main/src/1652.拆炸弹.md) | 简单 |     数组     |
