@@ -12,6 +12,7 @@
 | :----------------------------------------------------------: | :--: | :--------------------------: |
 | [5. 最长回文子串](https://github.com/fwr220807/leetcode-interview/blob/main/src/0005.最长回文子串.md) | 中等 | 中心扩散法、双指针、动态规划 |
 | [1624. 两个相同字符之间的最长子字符串](https://github.com/fwr220807/leetcode-interview/blob/main/src/1624.两个相同字符之间的最长子字符串.md) | 简单 |             映射             |
+| [面试题01.09. 字符串轮转](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.09.字符串轮转.md) | 简单 |                              |
 |                                                              |      |                              |
 
 ## 2. 二分查找
