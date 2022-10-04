@@ -14,6 +14,7 @@
 | [1624. 两个相同字符之间的最长子字符串](https://github.com/fwr220807/leetcode-interview/blob/main/src/1624.两个相同字符之间的最长子字符串.md) | 简单 |             映射             |
 | [面试题01.09. 字符串轮转](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.09.字符串轮转.md) | 简单 |                              |
 | [1694. 重新格式化电话号码](https://github.com/fwr220807/leetcode-interview/blob/main/src/1694.重新格式化电话号码.md) | 简单 |                              |
+| [1784. 检查二进制字符串字段](https://github.com/fwr220807/leetcode-interview/blob/main/src/1784.检查二进制字符串字段.md) | 简单 |            双指针            |
 |                                                              |      |                              |
 
 ## 2. 二分查找
@@ -28,10 +29,11 @@
 
 ## 3.贪心算法
 
-|                             题目                             | 难度 | 其他 |
-| :----------------------------------------------------------: | :--: | :--: |
-| [670. 最大交换](https://github.com/fwr220807/leetcode-interview/blob/main/src/0670.最大交换.md) | 中等 | 数组 |
-|                                                              |      |      |
+|                             题目                             | 难度 |  其他  |
+| :----------------------------------------------------------: | :--: | :----: |
+| [670. 最大交换](https://github.com/fwr220807/leetcode-interview/blob/main/src/0670.最大交换.md) | 中等 |  数组  |
+| [921. 使括号有效的最少添加](https://github.com/fwr220807/leetcode-interview/blob/main/src/0921.使括号有效的最少添加.md) | 中等 | 字符串 |
+|                                                              |      |        |
 
 ## 4.排序
 
