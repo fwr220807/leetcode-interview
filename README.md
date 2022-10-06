@@ -53,11 +53,14 @@
 
 ## 6.哈希
 
-|                             题目                             | 难度 | 其他 |
-| :----------------------------------------------------------: | :--: | :--: |
-| [1640. 能否连接形成数组](https://github.com/fwr220807/leetcode-interview/blob/main/src/1640.能否连接形成数组.md) | 简单 | 数组 |
-| [面试题01.02. 判定是否互为字符重排](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.02.判定是否互为字符重排.md) | 简单 |  桶  |
-|                                                              |      |      |
+|                             题目                             | 难度 |  其他  |
+| :----------------------------------------------------------: | :--: | :----: |
+| [1640. 能否连接形成数组](https://github.com/fwr220807/leetcode-interview/blob/main/src/1640.能否连接形成数组.md) | 简单 |  数组  |
+| [面试题01.02. 判定是否互为字符重排](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.02.判定是否互为字符重排.md) | 简单 |   桶   |
+| [387. 字符串中的第一个唯一字符](https://github.com/fwr220807/leetcode-interview/blob/main/src/0387.字符串中的第一个唯一字符.md) | 简单 | 字符串 |
+| [811. 子域名访问计数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0811.子域名访问计数.md) | 中等 | 字符串 |
+| [1. 两数之和](https://github.com/fwr220807/leetcode-interview/blob/main/src/0001.两数之和.md) | 简单 |  数组  |
+|                                                              |      |        |
 
 ## 7.链表
 
@@ -94,4 +97,5 @@
 | :----------------------------------------------------------: | :--: | :----------: |
 | [672. 灯泡开关Ⅱ](https://github.com/fwr220807/leetcode-interview/blob/main/src/0672.灯泡开关Ⅱ.md) | 中等 | 规律、位运算 |
 | [1652. 拆炸弹](https://github.com/fwr220807/leetcode-interview/blob/main/src/1652.拆炸弹.md) | 简单 |     数组     |
+| [927. 三等分](https://github.com/fwr220807/leetcode-interview/blob/main/src/0927.三等分.md) | 困难 |  数组，数学  |
 |                                                              |      |              |
