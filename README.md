@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(20 / 714)
+简单：(21 / 714)
 
-中等：(15 / 1491)
+中等：(17 / 1491)
 
 困难：(1 / 597)
 
-总进度：(36 / 2802)
+总进度：(39 / 2802)
 
 ## 1. 字符串
 
@@ -24,6 +24,7 @@
 | [1694. 重新格式化电话号码](https://github.com/fwr220807/leetcode-interview/blob/main/src/1694.重新格式化电话号码.md) | 简单 |                              |
 | [1784. 检查二进制字符串字段](https://github.com/fwr220807/leetcode-interview/blob/main/src/1784.检查二进制字符串字段.md) | 简单 |            双指针            |
 | [6. Z字形变换](https://github.com/fwr220807/leetcode-interview/blob/main/src/0006.Z字形变换.md) | 中等 |            找规律            |
+| [8. 字符串转换整数(atoi)](https://github.com/fwr220807/leetcode-interview/blob/main/src/0008.字符串转换整数(atoi).md) | 中等 |                              |
 |                                                              |      |                              |
 
 ## 2. 二分查找
@@ -114,4 +115,6 @@
 | [927. 三等分](https://github.com/fwr220807/leetcode-interview/blob/main/src/0927.三等分.md) | 困难 |  数组，数学  |
 | [1413. 逐步求和得到正数的最小值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1413.逐步求和得到正数的最小值.md) | 简单 |     数组     |
 | [1800. 最大升序子数组和](https://github.com/fwr220807/leetcode-interview/blob/main/src/1800.最大升序子数组和.md) | 简单 |     数组     |
+| [7. 整数反转](https://github.com/fwr220807/leetcode-interview/blob/main/src/0007.整数反转.md) | 中等 |     数学     |
+| [9. 回文数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0009.回文数.md) | 简单 |     数学     |
 |                                                              |      |              |
