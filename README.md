@@ -8,11 +8,11 @@
 
 简单：(22 / 714)
 
-中等：(19 / 1491)
+中等：(20 / 1491)
 
 困难：(1 / 597)
 
-总进度：(42 / 2802)
+总进度：(43 / 2802)
 
 ## 1. 字符串
 
@@ -99,6 +99,8 @@
 | :----------------------------------------------------------: | :--: | :-----------------: |
 | [777. 在LR字符串中交换相邻字符](https://github.com/fwr220807/leetcode-interview/blob/main/src/0777.在LR字符串中交换相邻字符.md) | 中等 |       双指针        |
 | [面试题17.09. 第k个数](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题17.09.第k个数.md) | 中等 | *三指针，归并，丑数 |
+| [313. 超级丑数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0313.超级丑数.md) | 中等 |    多指针，丑数     |
+| [264. 丑数II](https://github.com/fwr220807/leetcode-interview/blob/main/src/0264.丑数II.md) | 中等 |    三指针，丑数     |
 |                                                              |      |                     |
 
 ## 10.矩阵
