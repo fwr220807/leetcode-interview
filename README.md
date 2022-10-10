@@ -8,11 +8,11 @@
 
 简单：(23 / 714)
 
-中等：(21 / 1491)
+中等：(22 / 1491)
 
 困难：(2 / 597)
 
-总进度：(46 / 2802)
+总进度：(47 / 2802)
 
 ## 1. 字符串
 
@@ -46,6 +46,7 @@
 | [670. 最大交换](https://github.com/fwr220807/leetcode-interview/blob/main/src/0670.最大交换.md) | 中等 |                   数组                   |
 | [870. 优势洗牌](https://github.com/fwr220807/leetcode-interview/blob/main/src/0870.优势洗牌.md) | 中等 | 数组、田忌赛马、双指针、维护排序后的下标 |
 | [921. 使括号有效的最少添加](https://github.com/fwr220807/leetcode-interview/blob/main/src/0921.使括号有效的最少添加.md) | 中等 |                  字符串                  |
+| [11. 盛最多水的容器](https://github.com/fwr220807/leetcode-interview/blob/main/src/0011.盛最多水的容器.md) | 中等 |                  双指针                  |
 |                                                              |      |                                          |
 
 ## 4.排序
