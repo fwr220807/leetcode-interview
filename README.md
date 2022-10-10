@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(23 / 714)
+简单：(24 / 714)
 
 中等：(22 / 1491)
 
 困难：(2 / 597)
 
-总进度：(47 / 2802)
+总进度：(48 / 2802)
 
 ## 1. 字符串
 
@@ -26,6 +26,7 @@
 | [1694. 重新格式化电话号码](https://github.com/fwr220807/leetcode-interview/blob/main/src/1694.重新格式化电话号码.md) | 简单 |                              |
 | [1784. 检查二进制字符串字段](https://github.com/fwr220807/leetcode-interview/blob/main/src/1784.检查二进制字符串字段.md) | 简单 |            双指针            |
 | [面试题01.09. 字符串轮转](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.09.字符串轮转.md) | 简单 |                              |
+| [1790. 仅执行一次字符串交换能否使两个字符串相等](https://github.com/fwr220807/leetcode-interview/blob/main/src/1790.仅执行一次字符串交换能否使两个字符串相等.md) | 简单 |             模拟             |
 |                                                              |      |                              |
 
 ## 2. 二分查找
