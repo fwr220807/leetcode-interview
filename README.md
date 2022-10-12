@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(26 / 714)
+简单：(27 / 714)
 
-中等：(22 / 1491)
+中等：(26 / 1491)
 
 困难：(2 / 597)
 
-总进度：(50 / 2802)
+总进度：(55 / 2802)
 
 ## 1. 字符串
 
@@ -76,6 +76,7 @@
 | [1640. 能否连接形成数组](https://github.com/fwr220807/leetcode-interview/blob/main/src/1640.能否连接形成数组.md) | 简单 |  数组  |
 | [面试题01.02. 判定是否互为字符重排](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.02.判定是否互为字符重排.md) | 简单 |   桶   |
 | [剑指Offer03. 数组中重复的数字](https://github.com/fwr220807/leetcode-interview/blob/main/src/剑指Offer03.数组中重复的数字.md) | 简单 |  数组  |
+| [817. 链表组件](https://github.com/fwr220807/leetcode-interview/blob/main/src/0817.链表组件.md) | 中等 |  链表  |
 |                                                              |      |        |
 
 ## 7.链表
@@ -92,11 +93,14 @@
 
 |                             题目                             | 难度 |     其他     |
 | :----------------------------------------------------------: | :--: | :----------: |
+| [70. 爬楼梯](https://github.com/fwr220807/leetcode-interview/blob/main/src/0070.爬楼梯.md) | 简单 | 滚动数组思想 |
+| [198. 打家劫舍](https://github.com/fwr220807/leetcode-interview/blob/main/src/0198.打家劫舍.md) | 中等 | 滚动数组思想 |
+| [213. 打家劫舍II](https://github.com/fwr220807/leetcode-interview/blob/main/src/0213.打家劫舍II.md) | 中等 |              |
+| [509. 斐波那契数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0509.斐波那契数.md) | 简单 |     数学     |
+| [740. 删除并获得点数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0740.删除并获得点数.md) | 中等 |     哈希     |
+| [746. 使用最小花费爬楼梯](https://github.com/fwr220807/leetcode-interview/blob/main/src/0746.使用最小花费爬楼梯.md) | 简单 | 滚动数组思想 |
 | [788. 旋转数字](https://github.com/fwr220807/leetcode-interview/blob/main/src/0788.旋转数字.md) | 中等 |              |
 | [801. 使序列递增的最小交换次数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0801.使序列递增的最小交换次数.md) | 困难 |     数组     |
-| [509. 斐波那契数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0509.斐波那契数.md) | 简单 |     数学     |
-| [70. 爬楼梯](https://github.com/fwr220807/leetcode-interview/blob/main/src/0070.爬楼梯.md) | 简单 | 滚动数组思想 |
-| [746. 使用最小花费爬楼梯](https://github.com/fwr220807/leetcode-interview/blob/main/src/0746.使用最小花费爬楼梯.md) | 简单 | 滚动数组思想 |
 |                                                              |      |              |
 
 ## 9.指针
