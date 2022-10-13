@@ -8,11 +8,11 @@
 
 简单：(27 / 714)
 
-中等：(26 / 1491)
+中等：(28 / 1491)
 
 困难：(2 / 597)
 
-总进度：(55 / 2802)
+总进度：(57 / 2802)
 
 ## 1. 字符串
 
@@ -48,6 +48,9 @@
 | [870. 优势洗牌](https://github.com/fwr220807/leetcode-interview/blob/main/src/0870.优势洗牌.md) | 中等 | 数组、田忌赛马、双指针、维护排序后的下标 |
 | [921. 使括号有效的最少添加](https://github.com/fwr220807/leetcode-interview/blob/main/src/0921.使括号有效的最少添加.md) | 中等 |                  字符串                  |
 | [11. 盛最多水的容器](https://github.com/fwr220807/leetcode-interview/blob/main/src/0011.盛最多水的容器.md) | 中等 |                  双指针                  |
+| [769. 最多能完成排序的块](https://github.com/fwr220807/leetcode-interview/blob/main/src/0769.最多能完成排序的块.md) | 中等 |                  双指针                  |
+| [55. 跳跃游戏](https://github.com/fwr220807/leetcode-interview/blob/main/src/0055.跳跃游戏.md) | 中等 |                 动态规划                 |
+| [45. 跳跃游戏II](https://github.com/fwr220807/leetcode-interview/blob/main/src/0045.跳跃游戏II.md) | 中等 |                                          |
 |                                                              |      |                                          |
 
 ## 4.排序
