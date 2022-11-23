@@ -145,4 +145,5 @@
 | [1413. 逐步求和得到正数的最小值](https://github.com/fwr220807/leetcode-interview/blob/main/src/1413.逐步求和得到正数的最小值.md) | 简单 |     数组     |
 | [1800. 最大升序子数组和](https://github.com/fwr220807/leetcode-interview/blob/main/src/1800.最大升序子数组和.md) | 简单 |     数组     |
 | [1700. 无法吃午餐的学生数量](https://github.com/fwr220807/leetcode-interview/blob/main/src/1700.无法吃午餐的学生数量.md) | 简单 | 数组、 模拟  |
+| [535. TinyURL 的加密与解密](https://github.com/fwr220807/leetcode-interview/blob/main/src/0535.TinyURL 的加密与解密.md) | 中等 |     设计     |
 |                                                              |      |              |
