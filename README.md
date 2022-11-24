@@ -8,11 +8,11 @@
 
 简单：(28 / 714)
 
-中等：(30 / 1491)
+中等：(31 / 1491)
 
 困难：(2 / 597)
 
-总进度：(59 / 2802)
+总进度：(60 / 2802)
 
 ## 1. 字符串
 
@@ -116,6 +116,7 @@
 | [313. 超级丑数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0313.超级丑数.md) | 中等 |    多指针，丑数     |
 | [264. 丑数II](https://github.com/fwr220807/leetcode-interview/blob/main/src/0264.丑数II.md) | 中等 |    三指针，丑数     |
 | [904. 水果成篮](https://github.com/fwr220807/leetcode-interview/blob/main/src/0904.水果成篮.md) | 中等 | 双指针，滑动窗口法  |
+| [795. 区间子数组个数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0795.区间子数组个数.md) | 中等 |       双指针        |
 |                                                              |      |                     |
 
 ## 10.矩阵
