@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(28 / 714)
+简单：(29 / 714)
 
 中等：(32 / 1491)
 
 困难：(2 / 597)
 
-总进度：(61 / 2802)
+总进度：(62 / 2802)
 
 ## 1. 字符串
 
@@ -148,4 +148,5 @@
 | [1800. 最大升序子数组和](https://github.com/fwr220807/leetcode-interview/blob/main/src/1800.最大升序子数组和.md) | 简单 |     数组     |
 | [1700. 无法吃午餐的学生数量](https://github.com/fwr220807/leetcode-interview/blob/main/src/1700.无法吃午餐的学生数量.md) | 简单 | 数组、 模拟  |
 | [535. TinyURL 的加密与解密](https://github.com/fwr220807/leetcode-interview/blob/main/src/0535.TinyURL的加密与解密.md) | 中等 |     设计     |
+| [1752. 检查数组是否经排序和轮转得到](https://github.com/fwr220807/leetcode-interview/blob/main/src/1752.检查数组是否经排序和轮转得到.md) | 简单 |     数组     |
 |                                                              |      |              |
