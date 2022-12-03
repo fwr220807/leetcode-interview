@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(31 / 714)
+简单：(32 / 714)
 
-中等：(32 / 1491)
+中等：(33 / 1491)
 
 困难：(2 / 597)
 
-总进度：(65 / 2802)
+总进度：(67 / 2802)
 
 ## 1. 字符串
 
@@ -28,6 +28,7 @@
 | [面试题01.09. 字符串轮转](https://github.com/fwr220807/leetcode-interview/blob/main/src/面试题01.09.字符串轮转.md) | 简单 |                              |
 | [1790. 仅执行一次字符串交换能否使两个字符串相等](https://github.com/fwr220807/leetcode-interview/blob/main/src/1790.仅执行一次字符串交换能否使两个字符串相等.md) | 简单 |             模拟             |
 | [1758. 生成交替二进制字符串的最少操作数](https://github.com/fwr220807/leetcode-interview/blob/main/src/1758.生成交替二进制字符串的最少操作数.md) | 简单 |                              |
+| [1796. 字符串中第二大的数字](https://github.com/fwr220807/leetcode-interview/blob/main/src/1796.字符串中第二大的数字.md) | 简单 |                              |
 |                                                              |      |                              |
 
 ## 2. 二分查找
@@ -106,6 +107,7 @@
 | [746. 使用最小花费爬楼梯](https://github.com/fwr220807/leetcode-interview/blob/main/src/0746.使用最小花费爬楼梯.md) | 简单 | 滚动数组思想 |
 | [788. 旋转数字](https://github.com/fwr220807/leetcode-interview/blob/main/src/0788.旋转数字.md) | 中等 |              |
 | [801. 使序列递增的最小交换次数](https://github.com/fwr220807/leetcode-interview/blob/main/src/0801.使序列递增的最小交换次数.md) | 困难 |     数组     |
+| [1769. 移动所有球到每个盒子所需的最小操作数](https://github.com/fwr220807/leetcode-interview/blob/main/src/1769.移动所有球到每个盒子所需的最小操作数.md) | 困难 | 数组、字符串 |
 |                                                              |      |              |
 
 ## 9.指针
