@@ -153,5 +153,5 @@
 | [1700. 无法吃午餐的学生数量](https://github.com/fwr220807/leetcode-interview/blob/main/src/1700.无法吃午餐的学生数量.md) | 简单 | 数组、 模拟  |
 | [535. TinyURL 的加密与解密](https://github.com/fwr220807/leetcode-interview/blob/main/src/0535.TinyURL的加密与解密.md) | 中等 |     设计     |
 | [1752. 检查数组是否经排序和轮转得到](https://github.com/fwr220807/leetcode-interview/blob/main/src/1752.检查数组是否经排序和轮转得到.md) | 简单 |     数组     |
-| [1779. 找到最近的有相同 X 或 Y 坐标的点](https://github.com/fwr220807/leetcode-interview/blob/main/src/1779.找到最近的有相同 X 或 Y 坐标的点.md) | 简单 |     数组     |
+| [1779. 找到最近的有相同X或Y坐标的点](https://github.com/fwr220807/leetcode-interview/blob/main/src/1779.找到最近的有相同X或Y坐标的点.md) | 简单 |     数组     |
 |                                                              |      |              |
