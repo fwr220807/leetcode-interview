@@ -8,11 +8,11 @@
 
 简单：(34 / 714)
 
-中等：(33 / 1491)
+中等：(34 / 1491)
 
 困难：(2 / 597)
 
-总进度：(69 / 2802)
+总进度：(70 / 2802)
 
 ## 1. 字符串
 
@@ -54,6 +54,7 @@
 | [769. 最多能完成排序的块](https://github.com/fwr220807/leetcode-interview/blob/main/src/0769.最多能完成排序的块.md) | 中等 |                  双指针                  |
 | [55. 跳跃游戏](https://github.com/fwr220807/leetcode-interview/blob/main/src/0055.跳跃游戏.md) | 中等 |                 动态规划                 |
 | [45. 跳跃游戏II](https://github.com/fwr220807/leetcode-interview/blob/main/src/0045.跳跃游戏II.md) | 中等 |                                          |
+| [1253. 重构 2 行二进制矩阵](https://github.com/fwr220807/leetcode-interview/blob/main/src/1253.重构2行二进制矩阵.md) | 中等 |                   数组                   |
 |                                                              |      |                                          |
 
 ## 4.排序
