@@ -6,13 +6,13 @@
 
 👏👏欢迎各位同学加入，一起交流学习！！
 
-简单：(34 / 714)
+简单：(35 / 714)
 
 中等：(34 / 1491)
 
 困难：(2 / 597)
 
-总进度：(70 / 2802)
+总进度：(71 / 2802)
 
 ## 1. 字符串
 
@@ -30,6 +30,7 @@
 | [1758. 生成交替二进制字符串的最少操作数](https://github.com/fwr220807/leetcode-interview/blob/main/src/1758.生成交替二进制字符串的最少操作数.md) | 简单 |                              |
 | [1796. 字符串中第二大的数字](https://github.com/fwr220807/leetcode-interview/blob/main/src/1796.字符串中第二大的数字.md) | 简单 |                              |
 | [1812. 判断国际象棋棋盘中一个格子的颜色](https://github.com/fwr220807/leetcode-interview/blob/main/src/1812.判断国际象棋棋盘中一个格子的颜色.md) | 简单 |                              |
+| [2490. 回环句](https://github.com/fwr220807/leetcode-interview/blob/main/src/2490.回环句.md) | 简单 |                              |
 |                                                              |      |                              |
 
 ## 2. 二分查找
